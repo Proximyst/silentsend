@@ -1,0 +1,4 @@
+name: SilentSend
+main: com.proximyst.silentsend.SilentSendPlugin
+version: 0.1.0
+author: Proximyst
